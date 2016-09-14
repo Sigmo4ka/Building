@@ -161,7 +161,8 @@ section.main {
 	position: relative;
 	top: 20vh;
 }
-.down:hover {
+
+.down img:hover {
 	transform: scale(0.9,0.9);
 }
 
